@@ -1,3 +1,5 @@
 <?php
-ECHO "Hello World!<br>";
+
+print  "i m vimal\n";
+
 ?>
