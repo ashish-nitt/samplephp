@@ -1,5 +1,5 @@
 <?php
 print gethostname();
-print  "i m ashish\n";
+print  "<br/>i m ashish<br/>";
 
 ?>
